@@ -5492,7 +5492,7 @@ let cards = [
   },
 
   {
-    artName:'Ruan_Animation_Clock',
+    artName: 'Ruan_Animation_Clock',
     pageLink: './Art/Ruan_Animation_Clock/index.html',
     imageLink: './Art/Ruan_Animation_Clock/Animation_Clock.gif',
     author: 'Ruan',
